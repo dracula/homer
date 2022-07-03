@@ -75,6 +75,10 @@
     background-color: var(--dracula-background);
 }
 
+#app.theme-default.is-dark .search-bar>input:nth-child(2) {
+    color: var(--dracula-foreground);
+}
+
 /* Message */
 
 #app.theme-default.is-dark .message-header {
