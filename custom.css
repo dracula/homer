@@ -79,6 +79,10 @@
     color: var(--dracula-foreground);
 }
 
+#app.theme-default.is-dark .search-bar input:focus-visible {
+    outline: none;
+}
+
 /* Message */
 
 #app.theme-default.is-dark .message-header {
