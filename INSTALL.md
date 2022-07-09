@@ -12,9 +12,9 @@ Download using the [GitHub .zip download](https://github.com/dracula/homer/archi
 
 #### Activating theme
 
-1. copy ``custom.css`` to ``www/assets/custom.css``.
-2. copy ``dracula-background.png`` to ``www/assets/dracula-background``.
-3. put these lines into ``www/assets/config.yml`` and save the file:
+1. Copy ``custom.css`` to ``www/assets/custom.css``.
+2. Copy ``dracula-background.png`` to ``www/assets/dracula-background``.
+3. Put these lines into ``www/assets/config.yml`` and save the file:
 
 ```yml
 # Will load Dracula theme.

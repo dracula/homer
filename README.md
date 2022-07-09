@@ -10,7 +10,7 @@ All instructions can be found at [draculatheme.com/homer](https://draculatheme.c
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/homer/graphs/contributors).
 
 | [![Tuetenk0pp](https://github.com/Tuetenk0pp.png?size=100)](https://github.com/Tuetenk0pp) |
 | ------------------------------------------------------------------------------------------ |
